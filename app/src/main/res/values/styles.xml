@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="signup_btn">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">464dp</item>
+        <item name="android:layout_marginEnd">108dp</item>
+        <item name="android:background">#00FFFFFF</item>
+        <item name="android:scrollbarSize">1dp</item>
+    </style>
+</resources>

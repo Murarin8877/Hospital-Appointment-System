@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">reservation system</string>
+    <string-array name="Medical_Department">
+        <item>骨科</item>
+        <item>心臟內科</item>
+        <item>胃腸科</item>
+    </string-array>
+</resources>

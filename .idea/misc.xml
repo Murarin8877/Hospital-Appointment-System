@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android studio final project/android studio project0516sccc/android studio project/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Android studio final project/android studio project0516sccc/android studio project/app/src/main/res/layout/activity_main.xml" value="0.30833333333333335" />
+        <entry key="..\:/Android studio final project/android studio project0516sccc/android studio project/app/src/main/res/layout/signup.xml" value="0.29605263157894735" />
+        <entry key="..\:/Android studio final project/android studio project0520/android studio project/app/src/main/res/layout-v23/activity_login.xml" value="0.36614583333333334" />
+        <entry key="..\:/Android studio final project/android studio project0520/android studio project/app/src/main/res/layout/activity_login.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0520/android studio project/app/src/main/res/layout/activity_main.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0520/android studio project/app/src/main/res/layout/signup.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0524/android studio project/app/src/main/res/layout/activity_login.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0524/android studio project/app/src/main/res/layout/activity_main.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0524/android studio project/app/src/main/res/layout/activity_registered.xml" value="0.22" />
+        <entry key="..\:/Android studio final project/android studio project0524/android studio project/app/src/main/res/layout/signup.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project/app/src/main/res/layout-v23/activity_login.xml" value="0.16324786324786325" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project/app/src/main/res/layout/activity_check_registered.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project/app/src/main/res/layout/activity_main.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project/app/src/main/res/layout/activity_registered.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project/app/src/main/res/layout/activity_signup.xml" value="0.16324786324786325" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project/app/src/main/res/layout/item.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project/app/src/main/res/layout/signup.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0528/app/src/main/res/layout-v23/activity_login.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0528/app/src/main/res/layout/activity_check_registered.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0528/app/src/main/res/layout/activity_login.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0528/app/src/main/res/layout/activity_main.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0528/app/src/main/res/layout/activity_registered.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0528/app/src/main/res/layout/activity_signup.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0528/app/src/main/res/layout/signup.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0531/app/src/main/res/layout-v23/activity_login.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0531/app/src/main/res/layout/activity_check_registered.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0531/app/src/main/res/layout/activity_main.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0531/app/src/main/res/layout/activity_registered.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0531/app/src/main/res/layout/item.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0525/android studio project0531/app/src/main/res/layout/signup.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0608 end/android studio project0531/app/src/main/res/layout-v23/activity_login.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0608 end/android studio project0531/app/src/main/res/layout/activity_check_registered.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0608 end/android studio project0531/app/src/main/res/layout/activity_login.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0608 end/android studio project0531/app/src/main/res/layout/activity_main.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0608 end/android studio project0531/app/src/main/res/layout/activity_registered.xml" value="0.3004273504273504" />
+        <entry key="..\:/Android studio final project/android studio project0608 end/android studio project0531/app/src/main/res/layout/signup.xml" value="0.3004273504273504" />
+        <entry key="..\:/android project/android studio project/app/src/main/res/layout/activity_main.xml" value="0.30833333333333335" />
+        <entry key="..\:/android project/android studio project/app/src/main/res/layout/activity_signup.xml" value="0.30833333333333335" />
+        <entry key="..\:/android project/android studio project/app/src/main/res/layout/signup.xml" value="0.25" />
+        <entry key="..\:/android projectfailed/android studio project/app/src/main/res/layout/activity_main.xml" value="0.30833333333333335" />
+        <entry key="..\:/android projectfailed/android studio project/app/src/main/res/layout/signup.xml" value="0.25" />
+        <entry key="..\:/android studio project/app/src/main/res/drawable/signup_btn.xml" value="0.2265" />
+        <entry key="..\:/android studio project/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/android studio project/app/src/main/res/layout/activity_signup.xml" value="0.21359649122807017" />
+        <entry key="..\:/android studio project/app/src/main/res/layout/signup.xml" value="0.264" />
+        <entry key="..\:/android studio project0516scc/android studio project/app/src/main/res/layout/activity_main.xml" value="0.21359649122807017" />
+        <entry key="..\:/android studio project0516scc/android studio project/app/src/main/res/layout/signup.xml" value="0.264" />
+        <entry key="..\:/android studio project0516sccc/android studio project/app/src/main/res/layout/activity_main.xml" value="0.21359649122807017" />
+        <entry key="..\:/android studio project0516sccc/android studio project/app/src/main/res/layout/signup.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

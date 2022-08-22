@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="52dp"
+        android:layout_marginBottom="9dp"
+        android:text="註冊帳號"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.421"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="88dp"
+        android:text="趕快註冊帳號，加入我們吧。"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.383"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="389dp"
+        android:layout_height="294dp"
+        android:layout_marginTop="368dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView7"
+        app:layout_constraintVertical_bias="1.0">
+
+        <TextView
+            android:id="@+id/txv"
+            android:layout_width="match_parent"
+            android:layout_height="117dp"
+            android:textAlignment="center"
+            android:textColor="#EF0505"
+            android:textColorLink="#D3C5C5"
+            android:textSize="34sp" />
+
+        <Button
+            android:id="@+id/signin_btn"
+            android:layout_width="385dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="37dp"
+            android:layout_marginBottom="357dp"
+            android:background="#4CAF50"
+            android:text="註冊帳號"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout_id"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="391dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="10dp"
+        android:hint="請輸入身分證"
+        app:counterMaxLength="10"
+        app:counterEnabled="true"
+        app:endIconMode="clear_text"
+        app:helperText="Required"
+        app:helperTextEnabled="true"
+        app:helperTextTextColor="#F30707"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView7"
+        app:prefixTextColor="@color/purple_500"
+        app:startIconDrawable="?android:attr/fingerprintAuthDrawable"
+        tools:targetApi="m">
+
+        >
+
+
+        <com.google.android.material.textfield.TextInputEditText
+
+            android:id="@+id/idcard"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:textColor="#151414" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout_pd"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="395dp"
+        android:layout_height="81dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="1dp"
+        app:counterEnabled="true"
+        app:counterMaxLength="16"
+        app:endIconMode="clear_text"
+        app:helperText="Required"
+        app:helperTextEnabled="true"
+        app:helperTextTextColor="#F30707"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout_name"
+        app:startIconDrawable="@android:drawable/ic_lock_idle_lock">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/password_signup"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:hint="請輸入密碼8-16位必須同時包含大小寫字母及數字"
+            android:textColor="#171616"
+            android:textSize="16sp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout_spd"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="393dp"
+        android:layout_height="87dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="1dp"
+        app:counterEnabled="true"
+        app:counterMaxLength="16"
+        app:endIconMode="password_toggle"
+
+        app:helperText="Required"
+        app:helperTextEnabled="true"
+        app:helperTextTextColor="#F30707"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout_pd"
+        app:startIconDrawable="@android:drawable/ic_lock_idle_lock">
+
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/spd_signup"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+
+            android:hint="請再次輸入你的密碼"
+            android:textColor="#121111" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout_name"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="391dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="1dp"
+        app:counterEnabled="true"
+        app:counterMaxLength="8"
+        app:helperText="Required"
+        app:helperTextEnabled="true"
+        app:helperTextTextColor="#F30707"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout_id"
+        app:startIconDrawable="@drawable/baseline_account_circle_black_48dp">
+
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/Name_siginup"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:hint="請輸入姓名" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginStart="1dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="hint" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
